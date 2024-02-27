@@ -1,0 +1,43 @@
+[
+    {
+      "phrase": "Front-End: es la parte de una aplicación web que la persona que la usa, ve e interactúa. Es ejecutada por el browser.",
+      "author": "hostgator.mx"
+    },
+    {
+      "phrase": "Back-End: es lo que el usuario no ve en un software, como servidores y base de datos. Es un procesamiento “detrás de escena”",
+      "author": "hostgator.mx"
+      },
+    {
+      "phrase": "Full-stack: unión de Front-End y Back-End",
+      "author": "hostgator.mx."
+    },
+    {
+      "phrase": "React: biblioteca JavaScript para crear el Front-End de aplicaciones.",
+      "author": "hostgator.mx"
+    },
+    {
+      "phrase": "El React useState Hook nos permite rastrear el estado en un componente de función.",
+      "author": "w3schools.com"
+    },
+    {
+      "phrase": "El useEffectHook le permite realizar efectos secundarios en sus componentes.",
+      "author": "w3schools.com"
+    },
+    {
+      "phrase": "ES2023 agregó el método Array toReversed() como una forma segura de invertir una matriz sin alterar la matriz original.",
+      "author": "w3schools.com"
+    },
+    {
+      "phrase": "ES2023 agregó el método Array toSorted() como una forma segura de ordenar una matriz sin alterar la matriz original.",
+      "author": "w3schools.com"
+    },
+    {
+      "phrase": "ES2023 agregó el método Array toSpliced() como una forma segura de empalmar una matriz sin alterar la matriz original.",
+      "author": "w3schools.com"
+    },
+    {
+      "phrase": "El Modelo de Objetos de Documento (DOM) del W3C es una plataforma y una interfaz neutral en cuanto al idioma que permite a los programas y scripts acceder y actualizar dinámicamente el contenido, la estructura y el estilo de un documento",
+      "author": "w3schools.com"
+    }
+    
+]

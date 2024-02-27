@@ -1,0 +1,35 @@
+
+.card__btn {
+    display: block;
+    margin-left: auto;
+    background-color: black;
+    color: antiquewhite;
+    border: none;
+    padding: 0.6em 1.2em;
+    font-size: 1.1rem;
+    border-radius: 0.7em;
+    font-weight: 400;
+    transition: transform 100ms ease;
+    font-family: monospace;
+    text-shadow: 0 0 5px yellow, 0 0 15px yellow, 0 0 30px yellow;
+}
+
+.card__btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 5px yellow, 0 0 15px yellow, 0 0 30px yellow;
+    background-color: black;
+    
+
+    
+}
+
+.flicker1 {
+    animation: parpadear 2s infinite backwards;
+  }
+  @keyframes parpadear {
+    to {
+      color: gray;
+      text-shadow: none;
+    }
+  
+  }
